@@ -1,0 +1,5 @@
+include ':funnysdk'
+include ':fbserver'
+include ':gpserver'
+include ':app'
+rootProject.name = "ModuleTest2"
