@@ -17,6 +17,7 @@ public class EventBus {
     private static FunnyTaskDistribution funnyTaskDistribution;
     private static Context mContext;
 
+
     //保存包名
     public static void init(Context context) {
         hashMap.put("gp_sever", "com.sofunny.gpserver.GPServerUtils");
